@@ -1,0 +1,96 @@
+.container{
+    
+    background-color: rgb(253, 253, 253);
+    height:90vh;
+    width:80vw;
+    /* position:relative; */
+    margin-top: 0%;
+    
+}
+.blue{
+    display: grid;
+        grid-template-columns: 100px 100px; 
+        grid-template-rows: 100px;
+        grid-column-gap: 200px;
+
+}
+ .header{
+    background-color: rgba(255, 0, 0, 0.551);
+    height:8vh;
+    width:1535px;
+    position:relative;
+} 
+.span-cont{
+    top:50%;
+    left:50%;
+    postion:absolute;
+    transform: translate(-50% , -50% );
+    color:white;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+
+}
+.admin-details{
+    background-color: white;
+    height:8vh;
+    width:99vw;
+    z-index: 2;
+    margin-top: 10px;
+    box-shadow: 5px 5px 5px 2px #d3bdbdb1;
+    /* border: 3 px solid rgba(255, 0, 0, 0.59); */
+}
+.second-container{
+    background-color: white;
+    height:80%;
+    width:117%;
+    margin-top: 50px;
+    margin-left: 50px;
+    box-shadow: 10px 10px 10px 10px #888888;
+    border: 2 px solid 
+    white;
+       
+    
+    
+}
+.dashboard-container{
+    background-color: #888888;
+    height:90vh;
+    width:500px;
+    margin-top: 0vh;
+}
+.header-container{
+    background-color: white;
+    height:10vh;
+    width:50vw;
+    margin-left: 300px;
+}
+.button{
+    display: block;
+    color:white;
+    background-color: rgba(113, 193, 227, 0.489);
+    border-radius: 10px;
+    width:400px;
+    height:40px;
+    margin-top: 20px;
+    font-weight: bold;
+    
+}
+.first-button{
+    margin-top: 140px;
+    color:white;
+    background-color: rgba(113, 193, 227, 0.489);
+    border-radius: 10px;
+    width:400px;
+    height:40px;
+    font-weight: bold;
+}
+.dashboard-button{
+    color:white;
+    width:300px;
+    height:50px;
+    background-color: #888888;
+}
+h4{
+    color: rgb(19, 237, 241);
+}

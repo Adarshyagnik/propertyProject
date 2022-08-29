@@ -1,0 +1,149 @@
+
+.formmm{
+    height: 1000px;
+}
+ .aaa{
+    display: inline-block;
+ }
+h5{
+    color:rgb(95, 111, 111);
+    margin-top: 20px;
+    
+}
+
+.aaa > rad{
+    margin-top: -10px;
+margin-right: 265px;
+display:inline-flex;
+
+
+
+}
+
+input-group{
+    display: inline;
+}
+
+.divv2{
+    margin-left: 40px;
+}
+.divv6{
+    margin-left: 40px;
+}
+
+.divv7{
+    margin-left: 40px;
+    margin-inline-end: 204px;
+   
+}
+.divv7 > label{
+    
+    margin-inline-end: 20px;
+   
+}
+
+ l{
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-inline-end: 204px;
+}
+.divv2 > input{
+        display: inline-block;
+        width: 250px;
+        height: 30px;
+        margin-top: 5px;
+        margin-bottom: 20px;
+        margin-inline-end: 204px;
+        
+    }
+
+    .divv2 > select{
+        display: inline-block;
+        width: 250px;
+        height: 30px;
+        margin-top: 5px;
+        margin-bottom: 20px;
+        margin-inline-end: 210px;
+        
+    }
+
+
+    .divv6 > input{
+        display: inline-block;
+        width: 255px;
+        height: 30px;
+        margin-top: 5px;
+        margin-bottom: 20px;
+        margin-inline-end: 204px;
+        
+    }
+
+    .divv6 > select{
+        display: inline-block;
+        width: 250px;
+        height: 30px;
+        margin-top: 5px;
+        margin-bottom: 20px;
+        margin-inline-end: 210px;
+        
+    }
+.bb{
+    margin-inline-end: 270px;
+  
+    margin-left: 40px;
+}
+
+.bbb{
+    margin-inline-end: 310px;
+    margin-left: 40px;
+}
+
+.ee > label{
+    font-size: medium;
+
+}
+
+.rad > l{
+
+    margin-top: 8px;
+}
+.divv4{
+
+    margin-left: 40px;
+}
+.divv4 > select{
+    display: block;
+    width: 250px;
+    height: 30px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    margin-inline-end: 70px;
+    
+}
+
+.divv5 > input{
+    width:250px;
+    margin-left: 40px;
+}
+
+.rad2{
+    margin-top: -10px;
+margin-right: -40px;
+display:inline-flex;
+
+}
+.divv8 >input{
+    display: block;
+    margin-left: 40px;
+    width: 800px;
+    height: 100px;
+}
+.btn {
+    margin-left: 650px;
+    margin-top: 60px;
+    color: rgb(239, 228, 228);
+    width: 250px;
+    height:40px;
+
+    background-color: rgb(228, 24, 24);
+}

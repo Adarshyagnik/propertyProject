@@ -1,0 +1,67 @@
+.form{
+   
+    
+    margin-left: 50px;
+}
+
+h2{
+    color: rgb(48, 162, 126);
+}
+.divv > label{
+    display: block;
+    flex-direction: column;
+    margin-top: 50px;
+    
+}
+
+.divv > select{
+    width: 250px;
+    height: 30px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+.divv1 > input{
+
+    height: 30px;
+    width: 250px;
+    margin-top: 5px;
+   
+
+}
+.divv2 > select{
+    display: block;
+    width: 250px;
+    height: 30px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    margin-inline-end: 70px;
+    
+}
+
+.divv4 > select{
+    display:inline-flex;
+    
+    width: 250px;
+    height: 30px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    margin-inline-end: 50px;
+    
+}
+
+.form > button {
+    margin-left: 650px;
+    margin-top: 60px;
+    color: white;
+    width: 150px;
+    height:30px;
+
+    background-color: red;
+}
+
+.form > divv2 > label > a{
+    margin-left: 50px;
+}
+
+
+
